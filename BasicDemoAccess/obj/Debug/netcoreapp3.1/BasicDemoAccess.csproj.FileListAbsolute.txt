@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\BasicDemoAccess\BasicDemoAccess\bin\Debug\netcoreapp3.1\BasicDemoAccess.exe
+C:\Users\Admin\source\repos\BasicDemoAccess\BasicDemoAccess\bin\Debug\netcoreapp3.1\BasicDemoAccess.deps.json
+C:\Users\Admin\source\repos\BasicDemoAccess\BasicDemoAccess\bin\Debug\netcoreapp3.1\BasicDemoAccess.runtimeconfig.json
+C:\Users\Admin\source\repos\BasicDemoAccess\BasicDemoAccess\bin\Debug\netcoreapp3.1\BasicDemoAccess.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\BasicDemoAccess\BasicDemoAccess\bin\Debug\netcoreapp3.1\BasicDemoAccess.dll
+C:\Users\Admin\source\repos\BasicDemoAccess\BasicDemoAccess\bin\Debug\netcoreapp3.1\BasicDemoAccess.pdb
+C:\Users\Admin\source\repos\BasicDemoAccess\BasicDemoAccess\obj\Debug\netcoreapp3.1\BasicDemoAccess.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BasicDemoAccess\BasicDemoAccess\obj\Debug\netcoreapp3.1\BasicDemoAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BasicDemoAccess\BasicDemoAccess\obj\Debug\netcoreapp3.1\BasicDemoAccess.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BasicDemoAccess\BasicDemoAccess\obj\Debug\netcoreapp3.1\BasicDemoAccess.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BasicDemoAccess\BasicDemoAccess\obj\Debug\netcoreapp3.1\BasicDemoAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BasicDemoAccess\BasicDemoAccess\obj\Debug\netcoreapp3.1\BasicDemoAccess.dll
+C:\Users\Admin\source\repos\BasicDemoAccess\BasicDemoAccess\obj\Debug\netcoreapp3.1\BasicDemoAccess.pdb
+C:\Users\Admin\source\repos\BasicDemoAccess\BasicDemoAccess\obj\Debug\netcoreapp3.1\BasicDemoAccess.genruntimeconfig.cache
