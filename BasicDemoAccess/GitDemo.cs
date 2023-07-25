@@ -9,6 +9,7 @@ namespace BasicDemoAccess
         public static void Demo()
         {
             Console.WriteLine("First branch");
+            Console.WriteLine("second branch");
         }
     }
 }
