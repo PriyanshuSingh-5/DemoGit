@@ -9,7 +9,7 @@ namespace MoodAnalyserProblem
             Console.WriteLine("Hello World!");
            
             //mood.AnalyseMood();
-            string Message = "I am in done mood";
+            string Message = " ";
             MoodAnalyser mood = new MoodAnalyser(Message);
             Console.WriteLine("The mood is : " + mood.AnalyseMood());
             //MoodAnalyser
